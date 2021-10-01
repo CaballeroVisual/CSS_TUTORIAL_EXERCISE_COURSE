@@ -9,7 +9,10 @@ body {
 	color: blue;
 }
 
-ul li,
+ul {
+	color: red;
+ } 
+ li,
 ol li {
 	color: green;
 }
